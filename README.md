@@ -1,5 +1,2 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
-
-This repository is built step by step in the tutorial.
+git remote set-url origin https://github.com/mehaks2/learnerGit.git WHEN error: remote origin already exists.
+git push origin main WHEN  error: failed to push some refs to 'https://github.com/mehaks2/learner.git'
