@@ -30,7 +30,7 @@ Two way :
 
  git fetch origin
  git merge origin/master
- 
+ git reset:==git reset is a powerful command that is used to undo local changes to the state of a Git repo
 
 
 git remote set-url origin https://github.com/mehaks2/learnerGit.git WHEN error: remote origin already exists.
