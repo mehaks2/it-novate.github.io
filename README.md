@@ -18,6 +18,7 @@ Two way :
  git merged otherbranch
  git branch -d otherbranch  // Delete Branch
  
+
  git fetch origin(from github to local)
  git merge origin/master(from github to local)
  git pull origin(from github to local)
@@ -26,5 +27,11 @@ Two way :
  
  
 
+ git fetch origin
+ git merge origin/master
+ 
+
+
 git remote set-url origin https://github.com/mehaks2/learnerGit.git WHEN error: remote origin already exists.
 git push origin main WHEN  error: failed to push some refs to 'https://github.com/mehaks2/learner.git'
+git pull origin main --allow-unrelated-histories WHEN unable to push the data..fatal: refusing to merge unrelated histories
