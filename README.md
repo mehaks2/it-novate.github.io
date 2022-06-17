@@ -30,9 +30,12 @@ Two way :
  git branch -a(show on  all branches on github and local)
  git branch -r(show on  all branches on github)
  git checkout -b Vishal(  it create new branch and switched to that branch)
-
-
  
+ git remote add gh-page https://github.com/mehaks2/itnovate.github.io.git(git hub page)
+ git init WHEN fatal: not a git repository (or any of the parent directories): .git
+
+
+ rm -rf .git====Remove init git directory
  git reset:==git reset is a powerful command that is used to undo local changes to the state of a Git repo
 
 
