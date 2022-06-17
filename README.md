@@ -1,4 +1,6 @@
 git --version
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
 Two way :
   1) Clone from github
      git clone https://github.com/mehaks2/learnerGit.git
